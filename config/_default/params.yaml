@@ -7,8 +7,8 @@ titleSeparator: ♥ # Title separator. Default to -.
 
 description: Community website for LoveSudoNimh's streaming/gaming community.
 keywords: LoveSudoNimh, Aspects of Love, FFXIV, Streamer, Community
-# images:
-#   - site-feature-image.jpg
+images:
+  - bg.jpg
 
 # metaRobots: noindex, nofollow # Default value for Meta Tag robots
 # metaRobots:  # disable Meta Tag robots
@@ -55,7 +55,7 @@ dateFormat: Jan 2, 2006
 # poweredBy: false # Whether to show powered by.
 
 readingTime: true # Whether to display the reading time.
-postDate: true # Whether to display the post date in the post meta section.
+#postDate: true # Whether to display the post date in the post meta section.
 
 # featuredPostCount: 10 # The number of featured posts shown in sidebar. Turn off by setting it to false.
 # recentPostCount: 10 # The number of recent posts shown in sidebar. Turn off by setting it to false.
