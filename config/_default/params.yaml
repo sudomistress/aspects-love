@@ -5,10 +5,10 @@ mainSections:
 
 titleSeparator: ♥ # Title separator. Default to -.
 
-description: Community website for LoveSudoNimh's streaming/gaming community.
+description: Community website for LoveSudoNimh's gaming/streaming community.
 keywords: LoveSudoNimh, Aspects of Love, FFXIV, Streamer, Community
 images:
-  - bg.jpg
+  - images/bg.jpg
 
 # metaRobots: noindex, nofollow # Default value for Meta Tag robots
 # metaRobots:  # disable Meta Tag robots
