@@ -33,13 +33,20 @@ If you know of a link we should add, such a guide to doing deep dungeons, please
 
 - [FFXIV Wiki](https://ffxiv.consolegameswiki.com/wiki/FF14_Wiki)
 - [FFXIV Reddit](https://www.reddit.com/r/ffxiv/)
+- [FFXIV Reddit Discord](https://discord.gg/ffxiv)
 - [FFXIV Collect](https://ffxivcollect.com/)
 - [Another Triple Traid Tracker](https://triad.raelys.com/)
 - [FFXIV Relic Tracker](https://ffxivrelictracker.com/)
 - [Chocobo Color Changer](https://ffxivchocobo.com/en)
+- [Faux Hallows Solver](https://sturalke.github.io/FauxHollowsProbabilisticSolver/)
 - [FFXIV Housing](https://en.ff14housing.com/)
 - [FFXIV Gardening](https://ffxivgardening.com/)
 - [Eorzea Collection](https://ffxiv.eorzeacollection.com/)
+- [Eorzea Weather](https://eorzea-weather.info/en)
+- [FFXIV Squadron](https://ffxivsquadron.com/)
+- [FFXIV Hunts](https://ffxivhunt.com/)
+- [Late Night Chaos Discord](https://discord.gg/28SRRADTK3)
+- [Faloop Discord](https://discord.gg/faloop)
 
 ## Disciple of War/Disciple of Magic
 
@@ -53,6 +60,7 @@ If you know of a link we should add, such a guide to doing deep dungeons, please
 - [Crafting as a Service](https://ffxivcrafting.com/)
 - [Fishing with Carbucle Plushie](https://ff14fish.carbuncleplushy.com/)
 - [Teamcraft Guides](https://guides.ffxivteamcraft.com/)
+- [FFXIV Clock](https://www.ffxivclock.com/)
 
 ## Gold Saucer
 
