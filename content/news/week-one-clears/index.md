@@ -33,7 +33,7 @@ We have a few heavy hard core members who are a bit insane. So much so that they
 **Massive congratulations to everyone, especially Ray who snagged the mount!**
 | Role | Character |
 | -- | -- |
-| Tanks | Guado Guadian, Spicy Chicken (FC Member) |
+| Tanks | Guado Guadian, [Spicy Chicken](https://www.twitch.tv/neekoputkin) (FC Member) |
 | DPS | Eilaithium Aeglis, Eleyn Shikimori, Ember Shiranui |
 | Healers | Sinon Azura, Ray Vermillion (FC Member), Cyrie Odium |
 
@@ -49,7 +49,7 @@ Then you have the group I was in. We started with a few FC members, used Party F
 | ------- | ------------------------------------------------------------------------------------------------------ |
 | Tanks   | Kaelyn Orben, Amber Kater                                                                              |
 | DPS     | Luna Grant (FC Member), Fio Lefebvre (FC Member), Anha'sae Grant (FC Member), Lysias Grant (FC Member) |
-| Healers | Tirzah Grant (FC Member), Niss Tel                                                                     |
+| Healers | [Tirzah Grant](https://www.twitch.tv/lovesudonimh) (FC Member), Niss Tel                               |
 
 Good luck to everyone in the upcoming weeks. Now take a break and spend time in your Island Sanctuary!
 
