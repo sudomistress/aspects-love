@@ -1,7 +1,7 @@
 ---
 # type: docs
 title: Patch 6.2 Week One Clears
-date: 2022-09-05T00:34:47+08:00
+date: 2022-09-06T00:34:47+08:00
 featured: true
 draft: false
 comment: true
