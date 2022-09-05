@@ -59,7 +59,7 @@ Then you have the group I was in. We started with a few FC members, used Party F
 
 ![Center](elyp7clear.png)
 
-One of our FC members, Elyria, got together with a long time BFFs of our FC Tanine and Maxi, braved party finder their teir for each kill! So far they have made it to P8S part 1 and may even still clear it this week.
+One of our FC members, Elyria, got together with a long time BFFs of our FC Tanine and Maxi, and braved party finder their teir for each kill! So far they have made it to P8S part 1 and may even still clear it this week.
 
 ### Check out their P7S clear!
 
@@ -71,6 +71,10 @@ The collective responsible for the P7S Clear!
 | Tanks | [Tanine Grinnaux](https://www.twitch.tv/tanine_grinnaux) (BFF of FC), Maxi To (BFF of FC) |
 | DPS | Rose Fairclough, Nafeiya Lumini'a, [Elyria Oomori](https://www.twitch.tv/elyria_oomori) (FC Member), Lutetia Rae |
 | Healers | Yuri Tsukishima, Kimiko Shiraki |
+
+## The Party Finder Calleth
+
+Another of our FC members, Siguard, rocked the PF and has knocked down the carbuncle of dewm in P5S.
 
 ## Final thoughts
 
