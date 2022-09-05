@@ -76,6 +76,18 @@ The collective responsible for the P7S Clear!
 
 Another of our FC members, Siguard, rocked the PF and has knocked down the carbuncle of dewm in P5S.
 
+## The other OTHER static
+
+![Center](azasclear.jpg)
+
+A massive congrats to Aza'ela's P5S clear with their static! Fingers crossed for the next ones!
+
+| Role    | Character                                                                                                    |
+| ------- | ------------------------------------------------------------------------------------------------------------ |
+| Tanks   | Sani Hawkmoon, Raisy Didley                                                                                  |
+| DPS     | [Aza'ela Light'nea](https://www.twitch.tv/azael_____) (FC Member), Ava Urakawa, Vannaka Lothbrok, N'hara Tia |
+| Healers | Nezril Gabriel, Lil Monitus                                                                                  |
+
 ## Final thoughts
 
 Good luck to everyone in the upcoming weeks. Now take a break and spend time in your Island Sanctuary!

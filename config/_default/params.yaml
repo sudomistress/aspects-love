@@ -197,5 +197,4 @@ repo:
 topAppBar:
   social:
     github: sudomistress/aspects-love
-
-backgroundImage: ["/images/bg.png"]
+#backgroundImage: ["/images/bg.png"]

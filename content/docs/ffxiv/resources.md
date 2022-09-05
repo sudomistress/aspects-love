@@ -9,7 +9,7 @@ toc: true
 reward: false
 pinned: true
 carousel: false
-series: ["guides"]
+series: ["Guides"]
 categories: ["FFXIV", "resources"]
 tags: ["outside links"]
 images: ["images/resources.png"]

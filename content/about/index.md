@@ -9,7 +9,9 @@ postDate = false
 readingTime = false
 +++
 
-Our community is known as the **Aspects of Love**. It was started by Sudo/Tirzah/LoveSudoNimh so long ago that she can't remember the exact date. She wanted to offer a place where members could play games together, connect, and grow. Now it exists as a Free Company in FFXIV as well as being what she collectively view her streams.
+Our community is known as the **Aspects of Love**. It was started by Sudo/Tirzah/LoveSudoNimh so long ago that she can't remember the exact date. She wanted to offer a place where members could play games together, connect, and grow. Now it exists as a Free Company in FFXIV as well as being what she collectively views her stream's commuinity to be.
+
+![Center](aspects.png)
 
 We have core values, a code of conduct, and even a few recommended reading/watching resources to help understand us better.
 

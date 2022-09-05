@@ -9,7 +9,7 @@ toc: true
 reward: true
 pinned: false
 carousel: false
-series: ["mentor"]
+series: ["Mentor"]
 categories: ["FFXIV", "raiding"]
 tags: ["ARR"]
 images: []
@@ -21,12 +21,16 @@ The key mechanics for the extremes found in A Realm Reborn.
 
 ## The Minstrel's Ballad: Ultima's Bane
 
+![Center](images/extremes/ultimas-bane.png)
+
 {{< alert danger >}} Tanks must swap on either 3 or 4 stacks of Negative Aetheroplasm. If they get 5 they die. {{< /alert >}}
 
 - Soak the tethered orbs as a group
 - Tank LB 3 for the 4 sets of orbs to soak in lazy mode
 
 ## The Howling Eye
+
+![Center](images/extremes/the-howling-eye.png)
 
 - Slipstream = move behind her to avoid stun
 - Kill Satin Plume first
@@ -36,6 +40,7 @@ The key mechanics for the extremes found in A Realm Reborn.
 
 ## The Navel
 
+![Center](images/extremes/navel.png)
 {{< alert warning>}}
 Mountain Buster can hit very hard and if need be swap tanks after 2/3 his of it
 {{< /alert>}}
@@ -45,6 +50,8 @@ Mountain Buster can hit very hard and if need be swap tanks after 2/3 his of it
 
 ## The Bowl of Embers
 
+![Center](images/extremes/embers.png)
+
 - Avoid Eruptions
 - Healers need to be away from group due to Searing Wind AoE
 - Move to left most ifrit for the dodging
@@ -53,6 +60,8 @@ Mountain Buster can hit very hard and if need be swap tanks after 2/3 his of it
 - 4th Hellfire is a raid wipe
 
 ## Thornmarch
+
+![Center](images/extremes/thornmarch.png)
 
 {{< alert info>}}The king takes in the damage done to his minons so bring all minons to 10% health but do not kill them {{< /alert>}}
 Recommended Kill Order (though not required):
@@ -64,6 +73,8 @@ Recommended Kill Order (though not required):
 5. Others
 
 ## The Whorleater
+
+![Center](images/extremes/whorleater.png)
 
 - **Head**: Relfects physical ranged, does line aoe damage to tank so position in the corner
 - **Tail**: Reflects Magic Damage
@@ -77,6 +88,8 @@ Recommended Kill Order (though not required):
 
 ## The Striking Tree
 
+![Center](images/extremes/striking-tree.png)
+
 {{< alert danger >}}
 Tanks need 3 stacks of orbs to prevent dying to Shock Strike. One tank while the other collects, then swap and collect.
 {{< /alert>}}
@@ -87,6 +100,7 @@ Tanks need 3 stacks of orbs to prevent dying to Shock Strike. One tank while the
 
 ## The Akh Afah Amphitheatre
 
+![Center](images/extremes/akh-afah.png)
 {{< alert danger >}}
 Tanks need to swap due to debuffs.
 {{< /alert >}}
