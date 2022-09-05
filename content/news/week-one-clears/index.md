@@ -37,6 +37,10 @@ We have a few heavy hard core members who are a bit insane. So much so that they
 | DPS | Eilaithium Aeglis, Eleyn Shikimori, Ember Shiranui |
 | Healers | Sinon Azura, Ray Vermillion (FC Member), Cyrie Odium |
 
+### Watch their P8S Part 2 Clear
+
+{{< youtube Yw8jmprzRA4 >}}
+
 ## Just figuring it out
 
 Then you have the group I was in. We started with a few FC members, used Party Finder, and ended the week with a static made of FC members and 3 incredible people from party finder. Tooks a little bit to find our feet, but once we did we cleared P5S Sunday night before enrage hit! That's not too shabby!
