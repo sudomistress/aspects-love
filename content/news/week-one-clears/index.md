@@ -65,7 +65,7 @@ One of our FC members, Elyria, got together with a long time BFFs of our FC Tani
 
 {{< youtube 0hW3hYl4lb4>}}
 
-The collective responsible for the PS7 Clear!
+The collective responsible for the P7S Clear!
 | Role | Character |
 | ------- | ---------------------------------------------------------------------------------------------------------------- |
 | Tanks | [Tanine Grinnaux](https://www.twitch.tv/tanine_grinnaux) (BFF of FC), Maxi To (BFF of FC) |
