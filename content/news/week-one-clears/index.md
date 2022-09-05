@@ -55,6 +55,25 @@ Then you have the group I was in. We started with a few FC members, used Party F
 | DPS     | Luna Grant (FC Member), Fio Lefebvre (FC Member), Anha'sae Grant (FC Member), Lysias Grant (FC Member) |
 | Healers | [Tirzah Grant](https://www.twitch.tv/lovesudonimh) (FC Member), Niss Tel                               |
 
+## The Party Finder Collective!
+
+![Center](elyp7clear.png)
+
+One of our FC members, Elyria, got together with a long time BFFs of our FC Tanine and Maxi, braved party finder their teir for each kill! So far they have made it to P8S part 1 and may even still clear it this week.
+
+### Check out their P7S clear!
+
+{{< youtube 0hW3hYl4lb4>}}
+
+The collective responsible for the PS7 Clear!
+| Role | Character |
+| ------- | ---------------------------------------------------------------------------------------------------------------- |
+| Tanks | [Tanine Grinnaux](https://www.twitch.tv/tanine_grinnaux) (BFF of FC), Maxi To (BFF of FC) |
+| DPS | Rose Fairclough, Nafeiya Lumini'a, [Elyria Oomori](https://www.twitch.tv/elyria_oomori) (FC Member), Lutetia Rae |
+| Healers | Yuri Tsukishima, Kimiko Shiraki |
+
+## Final thoughts
+
 Good luck to everyone in the upcoming weeks. Now take a break and spend time in your Island Sanctuary!
 
 _If you have something you want to celebrate, get in touch with Tirzah and let her know!_
