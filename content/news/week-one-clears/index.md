@@ -31,13 +31,11 @@ We have a few heavy hard core members who are a bit insane. So much so that they
 ![Center](p8savageclear-groupshot.png)
 
 **Massive congratulations to everyone, especially Ray who snagged the mount!**
-
-| Tanks                     | DPS               | Healers                    |
-| ------------------------- | ----------------- | -------------------------- |
-| Guado Guardian            | Eilaithium Aeglis | Sinon Azura                |
-| Spicy Chicken (FC Member) | Eleyn Shikimori   | Ray Vermillion (FC Member) |
-|                           | Ember Shiranui    |                            |
-|                           | Cyrie Odium       |                            |
+| Role | Character |
+| -- | -- |
+| Tanks | Guado Guadian, Spicy Chicken (FC Member) |
+| DPS | Eilaithium Aeglis, Eleyn Shikimori, Ember Shiranui |
+| Healers | Sinon Azura, Ray Vermillion (FC Member), Cyrie Odium |
 
 ## Just figuring it out
 
@@ -47,12 +45,11 @@ Then you have the group I was in. We started with a few FC members, used Party F
 
 **Massive congrats to our new static, aptly called "Inflatable Friends"!**
 
-| Tanks        | DPS                        | Healers                  |
-| ------------ | -------------------------- | ------------------------ |
-| Kaelyn Orben | Luna Grant (FC Member)     | Tirzah Grant (FC Member) |
-| Amber Kater  | Fio Lefebvre (FC Member)   | Niss Tel                 |
-|              | Anha'sae Grant (FC Member) |                          |
-|              | Lysias Grant (FC Member)   |                          |
+| Role    | Character                                                                                              |
+| ------- | ------------------------------------------------------------------------------------------------------ |
+| Tanks   | Kaelyn Orben, Amber Kater                                                                              |
+| DPS     | Luna Grant (FC Member), Fio Lefebvre (FC Member), Anha'sae Grant (FC Member), Lysias Grant (FC Member) |
+| Healers | Tirzah Grant (FC Member), Niss Tel                                                                     |
 
 Good luck to everyone in the upcoming weeks. Now take a break and spend time in your Island Sanctuary!
 
