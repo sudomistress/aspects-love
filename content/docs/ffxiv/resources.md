@@ -64,6 +64,8 @@ If you know of a link we should add, such a guide to doing deep dungeons, please
 
 ## Gold Saucer
 
+I wanna be a gillionnaire !
+
 ## Island Sanctuary
 
 - [Island Sanctuary Comprehensive Guide](https://docs.google.com/spreadsheets/d/1R4UKA2zZ1MZ7sRUEBAi2Eh0NCVPbb1iQh8BjoQ_vVX4/edit#gid=306563550)
