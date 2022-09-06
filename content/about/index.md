@@ -60,3 +60,7 @@ To us, intent behind words is everything. We believe that to have a community, c
 - [Oatmeal's Believe Comic](http://theoatmeal.com/comics/believe)
 - [Unconscious Bias](https://www.youtube.com/watch?v=dVp9Z5k0dEE)
 - [12 Cognitive Biases](https://www.youtube.com/watch?v=wEwGBIr_RIw)
+
+## Streams
+
+{{< twitch channel lovesudonimh >}}

@@ -4,6 +4,14 @@
 
 This repo was made with love using [GitKraken Client](https://www.gitkraken.com/invite/rELPRTpS).
 
+## Todo
+
+- [ ] Stream Page
+  - [ ] Stream Layout
+- [ ] Have Live/NotLive notification in Stream menu
+- [ ] Reviews / Suggestions / Come Play with Me
+- [ ] Blog authors
+
 ## Built On
 
 This project is built from the [Hugo Bootstrap Theme](https://github.com/razonyang/hugo-theme-bootstrap). Check it out!

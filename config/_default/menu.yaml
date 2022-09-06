@@ -1,3 +1,25 @@
 main:
   - name: Blog
     identifier: blog
+  - name: Streams
+    identifier: streams
+  - name: Tirzah "LoveSudoNimh" Grant
+    identifier: lovesudonimh
+    parent: streams
+    weight: 1
+    url: https://www.twitch.tv/lovesudonimh
+  - name: Spicy Chicken
+    identifier: neekoputkin
+    parent: streams
+    weight: 2
+    url: https://www.twitch.tv/neekoputkin
+  - name: Aza'ela Light'nea
+    identifier: azael
+    parent: streams
+    weight: 3
+    url: https://www.twitch.tv/azael_____
+  - name: Ray Vermillion
+    identifier: raiyukii
+    parent: streams
+    weight: 4
+    url: https://www.twitch.tv/raiyukii
