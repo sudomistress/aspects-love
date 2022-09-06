@@ -1,7 +1,7 @@
 ---
 title: FFXIV Guides
 linkTitle: FFXIV # The title of left navigation, optional.
-linkTitleIcon: <i class="fas fa-scroll"></i> # The icon of the link title, optional.
+linkTitleIcon: <i class="fas fa-folder"></i> # The icon of the link title, optional.
 navWeight: 990 # Upper weight gets higher precedence, optional.
 ---
 

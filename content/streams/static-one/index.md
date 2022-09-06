@@ -26,12 +26,12 @@ These are the streams that happen during their statics, you can watch them at th
 
 ## Spicy Chicken
 
-{{< twitch channel neekoputkin>}}
+{{< twitch channel neekoputkin >}}
 
 ## Ray Vermillion
 
-{{< twitch channel raiyukii>}}
+{{< twitch channel raiyukii >}}
 
 ## Ember Shiranui
 
-{{<twitch channel ifindtheway>}}
+{{< twitch channel ifindtheway >}}

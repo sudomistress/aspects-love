@@ -17,11 +17,11 @@ images: ["images/resources.png"]
 
 It takes a community, with different focuses, to be able to wrap your mind around the sheer quanity of content this game has to offer. This is a list of links to resources to help you find that unique one that works best for you, for the content you want to explore.
 
+<!--more-->
+
 {{< alert info>}}
 If you know of a link we should add, such a guide to doing deep dungeons, please add a comment so we can ensure it gets added!
 {{< /alert >}}
-
-<!--more-->
 
 ## Game Developer
 
