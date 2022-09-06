@@ -12,6 +12,8 @@ This repo was made with love using [GitKraken Client](https://www.gitkraken.com/
 - [ ] Reviews / Suggestions / Come Play with Me
 - [ ] Blog authors
 
+- Created Static Stream Page for all members to share
+
 ## Built On
 
 This project is built from the [Hugo Bootstrap Theme](https://github.com/razonyang/hugo-theme-bootstrap). Check it out!
