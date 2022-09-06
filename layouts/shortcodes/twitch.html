@@ -1,6 +1,25 @@
+<!--
+
+parent must be a domain 
+localhost
+www.aspectsof.love
+.Site.BaseURL = //localhost:1313
+.Site.BaseURL = https://www.aspectsof.love
+
+-->
+{{ $parentTwitchURL := "localhost"}}
+  
+{{ if eq .Site.BaseURL "//localhost:1313/"}} 
+  {{ $parentTwitchURL = "localhost"}}
+{{ else }}
+  {{ $parentTwitchURL = "www.aspectsof.love"}} 
+{{ end}}
+
+
+
 <div class="embed">
   <iframe
-    src="https://player.twitch.tv/?{{ index .Params 0 }}={{ index .Params 1 }}&parent=www.aspectsof.love&autoplay=false"
+    src="https://player.twitch.tv/?{{ index .Params 0 }}={{ index .Params 1 }}&parent={{ $parentTwitchURL }}&autoplay=false"
     frameborder="0"
     allowfullscreen="true"
     scrolling="no"
