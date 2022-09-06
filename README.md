@@ -6,12 +6,8 @@ This repo was made with love using [GitKraken Client](https://www.gitkraken.com/
 
 ## Todo
 
-- [ ] Have Live/NotLive notification in Stream menu (make accomidations for the fact that hugo is a static site generator)
-- [ ] Reviews / Suggestions / Come Play with Me
-- [ ] Blog authors
+Have a feature request? Want to contribute to the site? Head to the issues and see what's happening.
 
-- Created Static Stream Page for all members to share
-- Modified ratio for carousel
 
 ## Built On
 
