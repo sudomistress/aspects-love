@@ -116,7 +116,8 @@ Stack in center to prep
 - Scales:
   - Blue weighs 3
   - Orage weigh 1
-- Avoid Daughter while finding right "clone"
+- Avoid Daughter while finding right "clone" as shown below
+  ![Center](images/extremes/spicysophia.png)
 
 ## Containment Bay Z1T9
 
