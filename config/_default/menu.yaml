@@ -28,3 +28,8 @@ main:
     parent: streamers
     weight: 5
     url: https://www.twitch.tv/dbfig
+  - name: Elyria Oomori
+    identifier: elyria
+    parent: streamers
+    weight: 5
+    url: https://www.twitch.tv/elyria_oomori
