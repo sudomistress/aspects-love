@@ -2,7 +2,7 @@ name: LoveSudoNimh
 avatar: images/profile.png # Avatar image. Default to "images/profile.webp".
 bio: "Streamer and Matriach of the gaming community."
 company: Aspects of Love # HTML markup are supported, such as: <a href="https://example.com" target="_blank" rel="noopener noreferrer">Company</a>.
-location: Chaos/Omega # HTML markup are supported, such as: <a href='https://www.openstreetmap.org/search?query=Earth'>Earth</a>.
+location: Chaos/Omega | <a rel="me" href="https://mastodon.aspectsof.love/@josey">Mastodon</a> # HTML markup are supported, such as: <a href='https://www.openstreetmap.org/search?query=Earth'>Earth</a>.
 # about: https://razonyang.com # The external about page. The internal about page will be used if not set.
 params: {}
 # layout: compact
